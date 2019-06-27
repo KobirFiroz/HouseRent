@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">House Rent</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="input_hint">Enter address, city or zip code</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="map_api_key">AIzaSyDfOoIWCFr9xLsZs7VMpv-4dSt8CbV3IH4</string>
+</resources>

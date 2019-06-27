@@ -1,0 +1,127 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center"
+    android:background="@drawable/backgroundlogin"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+  <TextView
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="FireBase Auth Login"
+      android:gravity="center"
+      android:textAllCaps="true"
+      android:textSize="16sp"
+      android:padding="10dp"/>
+
+  <android.support.design.widget.TextInputLayout
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content">
+
+    <EditText
+        android:id="@+id/email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Email"
+
+        android:inputType="textEmailAddress"
+        android:maxLines="1"
+        android:singleLine="true"
+        android:textColor="#FFFFFF" />
+
+  </android.support.design.widget.TextInputLayout>
+
+  <android.support.design.widget.TextInputLayout
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content">
+
+    <EditText
+        android:id="@+id/password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:focusableInTouchMode="true"
+        android:hint="Password"
+        android:imeActionId="@+id/login"
+        android:imeOptions="actionUnspecified"
+        android:inputType="textPassword"
+        android:maxLines="1"
+        android:singleLine="true"
+        android:textColor="#FFFFFF"
+        tools:ignore="InvalidImeActionId" />
+
+  </android.support.design.widget.TextInputLayout>
+
+  <Button
+      android:id="@+id/sign_in_button"
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content"
+      android:layout_marginTop="20dip"
+      android:background="@drawable/button_style"
+      android:text="Sign In"
+      android:textColor="@color/white" />
+
+  <!-- Link to Login Screen -->
+
+  <Button
+      android:id="@+id/sign_up_button"
+      style="?android:textAppearanceSmall"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_marginTop="16dp"
+      android:background="@drawable/button_style"
+      android:text="Sign Up"
+      android:textColor="@color/white"
+      android:textStyle="bold" />
+
+  <!-- Link to Forget Password -->
+
+  <TextView
+      android:id="@+id/forget_password_button"
+      style="?android:textAppearanceSmall"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_marginTop="16dp"
+      android:gravity="center"
+      android:padding="10dp"
+      android:text="Forget Password"
+      android:textColor="@color/colorPrimary"
+      android:textStyle="bold" />
+
+  <TextView
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_marginTop="20dp"
+      android:textSize="15dp"
+      android:textColor="@color/white"
+      android:text=" -------------- Or login with ---------------"
+      />
+  <LinearLayout
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_marginTop="20dp"
+      android:gravity="center"
+      android:orientation="horizontal">
+
+    <Button
+        android:id="@+id/btn_gmail_auth"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="20dp"
+        android:paddingRight="10dp"
+        android:background="@drawable/button_circle_blue"
+        android:drawableRight="@drawable/ic_facebook"
+        />
+
+    <Button
+        android:id="@+id/btn_facebook_auth"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:paddingRight="10dp"
+        android:background="@drawable/button_circle_red"
+        android:drawableRight="@drawable/ic_google"
+        android:textSize="20dp" />
+  </LinearLayout>
+
+</LinearLayout>

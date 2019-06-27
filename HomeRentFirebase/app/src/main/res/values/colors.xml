@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FFC107</color>
+    <color name="blueDarkBtn">#004a83</color>
+    <color name="blueLightBtn">#0085ec</color>
+    <color name="white">#ffffff</color>
+    <color name="red">#ff5959</color>
+    <color name="orange">#ed7c03</color>
+    <color name="background_activity">#c9c9c9</color>
+    <color name="lightRed">#ff8282</color>
+    <color name="warning">#e1aa12</color>
+
+</resources>

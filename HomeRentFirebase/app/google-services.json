@@ -1,0 +1,183 @@
+{
+  "project_info": {
+    "project_number": "609222974841",
+    "firebase_url": "https://house-rent-6b16f.firebaseio.com",
+    "project_id": "house-rent-6b16f",
+    "storage_bucket": "house-rent-6b16f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609222974841:android:a245634da124d05b",
+        "android_client_info": {
+          "package_name": "com.example.anuj.maddeveloper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609222974841-nh3gvmn86kc7krbe0l1l2fibdc80us68.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anuj.maddeveloper",
+            "certificate_hash": "44e353a2bc072922faa19d6ce84d00a7fef4295a"
+          }
+        },
+        {
+          "client_id": "609222974841-6vsjksd4u5uj5igddtbnjhbi91ebjjll.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anuj.maddeveloper",
+            "certificate_hash": "895895bcb2a5766a5acd6249d97aa6a1513c2f50"
+          }
+        },
+        {
+          "client_id": "609222974841-8991j7k9bpoj4ocgiojp2tbb41h7m40r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anuj.maddeveloper",
+            "certificate_hash": "fa6ec1aad91b46511dc35ae97c02b392923ad23a"
+          }
+        },
+        {
+          "client_id": "609222974841-spl37brn4ur8fqg2ttlnf4ag99eg0mnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr4-CsPa93r-XOFEPOtUwuafUH9FEVEVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609222974841-spl37brn4ur8fqg2ttlnf4ag99eg0mnc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609222974841:android:2ff7b7da0b1442ba",
+        "android_client_info": {
+          "package_name": "com.example.firozkobir.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609222974841-h18k6enuii0065cv5spmk7bb5n8fdkta.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firozkobir.myapplication",
+            "certificate_hash": "895895bcb2a5766a5acd6249d97aa6a1513c2f50"
+          }
+        },
+        {
+          "client_id": "609222974841-spl37brn4ur8fqg2ttlnf4ag99eg0mnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr4-CsPa93r-XOFEPOtUwuafUH9FEVEVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609222974841-spl37brn4ur8fqg2ttlnf4ag99eg0mnc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609222974841:android:1c168a2e13a6c629",
+        "android_client_info": {
+          "package_name": "com.homerent.bd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609222974841-iimfesku4bn3738d7bmjk89ch8vjhdb8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.homerent.bd",
+            "certificate_hash": "895895bcb2a5766a5acd6249d97aa6a1513c2f50"
+          }
+        },
+        {
+          "client_id": "609222974841-spl37brn4ur8fqg2ttlnf4ag99eg0mnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr4-CsPa93r-XOFEPOtUwuafUH9FEVEVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609222974841-spl37brn4ur8fqg2ttlnf4ag99eg0mnc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609222974841:android:655595fd6cf68ab2",
+        "android_client_info": {
+          "package_name": "com.onlinehouse.rent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609222974841-13prmklhb3p6vfrpcnsfenh8bausa70r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.onlinehouse.rent",
+            "certificate_hash": "fa6ec1aad91b46511dc35ae97c02b392923ad23a"
+          }
+        },
+        {
+          "client_id": "609222974841-blfi050qaduejk6bg36c1ir7felg8hd1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.onlinehouse.rent",
+            "certificate_hash": "895895bcb2a5766a5acd6249d97aa6a1513c2f50"
+          }
+        },
+        {
+          "client_id": "609222974841-spl37brn4ur8fqg2ttlnf4ag99eg0mnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr4-CsPa93r-XOFEPOtUwuafUH9FEVEVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609222974841-spl37brn4ur8fqg2ttlnf4ag99eg0mnc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
